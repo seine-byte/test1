@@ -1,4 +1,4 @@
-from src.main import process
+from main import process
 
 print(process(1))
 print(process(5))
